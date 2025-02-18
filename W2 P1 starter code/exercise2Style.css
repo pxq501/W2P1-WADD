@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    border-bottom: solid;
+    border-color: red;
+    padding: 20px;
+}
+
+h1:hover {
+    color: aqua;
+    border-color: aqua;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p:hover {
+    color: red;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-left: 5px;
+}
